@@ -40,6 +40,10 @@ olt-mvp/
 └── README.md              # This file
 ```
 
+## 📐 System Architecture (As-Is)
+
+เอกสารสถาปัตยกรรมจากโค้ดจริงของ repository อยู่ที่ `SYSTEM_ARCHITECTURE.md`
+
 ## 🚀 Features
 
 - **Dashboard** - Real-time overview of network status
